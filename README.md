@@ -2,7 +2,7 @@
 
 Codes for the AISTATS 2023 oral paper: [Using Sliced Mutual Information to Study Memorization and Generalization in Deep Neural Networks](https://proceedings.mlr.press/v206/wongso23a/wongso23a.pdf)
 
-- in the process of cleaning the codes - 
+Still in the process of cleaning the codes.
 
 Citation:
 ```
